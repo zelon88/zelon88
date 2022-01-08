@@ -1,5 +1,11 @@
 ## :cow: Hi there! You've found @Zelon88's Github Page!
 
-I develop open-source software by the seat of my pants for pleasure and for business. My code tends to have a visceral feel to it but it gets the job done. 
+I develop open-source software for pleasure and for business. I am available for hire on a contractual basis for a variety of work including (but not limited to):
 
-I am driven by a desire to not rely on proprietary software or third party services to accomplish my goals. My projects emphasize security, privacy, & self-hosted alternatives to popular Cloud services.
+* Full Stack Web Application Development
+* Process Automation
+* Special Projects
+* Domain, Network, Database & Systems Administration
+* Consulting
+
+My projects emphasize security, privacy, & self-hosted alternatives to popular Cloud services. I am driven by a desire to not rely on proprietary software or third party services to accomplish my goals. 
