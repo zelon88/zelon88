@@ -1,6 +1,6 @@
 ## :cow: Hi there! You've found @Zelon88's Github Page!
 
-By day I work as a Director of Information Technology in the hospitality industry. By night I develop open-source software for pleasure and for business. 
+By day I enjoy being outdoors, going on adventures, & riding off road vehicles. By night I develop open-source software for pleasure and for business. 
 
 My projects emphasize security, privacy, & self-hosted alternatives to popular Cloud services. I am driven by a desire to not rely on proprietary software or third party services to accomplish my goals. 
 
