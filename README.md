@@ -1,4 +1,4 @@
-## :cow: Hi there! You've found @Zelon88's Github Page!
+## :cat: Hi there! You've found @Zelon88's Github Page!
 
 By day I enjoy being outdoors, going on adventures, & riding off road vehicles. By night I develop open-source software for pleasure and for business. 
 
